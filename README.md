@@ -1,5 +1,5 @@
 # Python-interact-with-Google-sheet
-obtain per min data through market data api in google sheet
+obtain per min stock data through market data api in google sheet
 
 With the google sheet api credential JSON file, the code could interact with a google sheet file with "market data" api installed (more info.: https://www.marketdata.app/).
 
